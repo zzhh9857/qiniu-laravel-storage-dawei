@@ -1,3 +1,4 @@
+.idea
 *.phar
 *.zip
 build/artifacts
